@@ -1,3 +1,4 @@
+// variables
 fun main() {
     //"val" can’t be reassigned a different value after initialization
     val firstName2 : String ="Ali"          //Equal  -> val firstName ="Ali"
