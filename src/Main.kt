@@ -12,7 +12,7 @@ fun main() {
     println("=========================")
 
     //"var" can be reassigned a different value after initialization
-    var firstName  ="Omar"
+    var firstName : String  ="Omar"
     firstName = "ami"
     println(firstName)
     println(firstName.isEmpty())
