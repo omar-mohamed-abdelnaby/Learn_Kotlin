@@ -34,6 +34,6 @@ fun main() {
     var car2 : String = "BMW"
     println(car2::class)
 
-    var number : Int = 25
+    var number : Int = 5
     println(number::class)
     }
