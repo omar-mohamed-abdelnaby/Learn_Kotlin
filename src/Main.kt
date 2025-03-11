@@ -24,5 +24,16 @@ fun main() {
     println(gender.isEmpty())
 
     var age =20
-    print(age)
+    println(age)
+
+
+    println("========================")
+
+    var car:String = "BMW"
+
+    var car2 : String = "BMW"
+    println(car2::class)
+
+    var number : Int = 25
+    println(number::class)
     }
