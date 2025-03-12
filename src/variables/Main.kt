@@ -35,5 +35,5 @@ fun main() {
     println(car2::class)
 
     var number : Int = 25
-    println(number::class)
+    println(number.javaClass)  // To now dataType
     }
