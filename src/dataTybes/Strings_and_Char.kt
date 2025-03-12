@@ -4,8 +4,8 @@ fun main(){
     //Strings
     val str:String = "Hello World"
     println(str)
-    println(str.uppercase())
-    println(str.lowercase())
+    println(str.uppercase())  //CAPITAL LETTERS
+    println(str.lowercase())   //small letters
     println("=================")
 
     //Characters
