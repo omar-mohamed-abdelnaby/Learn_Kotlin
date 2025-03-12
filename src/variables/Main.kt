@@ -1,5 +1,3 @@
-package variables
-
 // variables
 fun main() {
     //"val" can’t be reassigned a different value after initialization
