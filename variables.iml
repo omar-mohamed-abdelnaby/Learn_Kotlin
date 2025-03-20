@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/dataTybes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/variables" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/conditions" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
