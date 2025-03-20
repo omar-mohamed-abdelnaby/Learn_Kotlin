@@ -18,6 +18,6 @@ fun main(){
     println("==================")
     //Single Line IfElse Statement
 
-    var age = 25
-    if (age > 25) println("Your age is $age") else println("Your age is more than $age")
+    var age = 20
+    if (age > 20) println("Your age is $age") else println("Your age is more than $age")
 }
